@@ -1,0 +1,1 @@
+# Cet exercices nous apprenait comment utiliser les images ainsi que certaines fonctionnalité de CSS. (ex:le fait de créer un changement en passant la souris sur quelque chose, la rotation de quelque chose,...)
