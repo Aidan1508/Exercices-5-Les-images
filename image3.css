@@ -1,0 +1,10 @@
+img{
+    height: 100px; /* hauteur */
+    width: 700px; /* largeur */
+    margin: 15px 0; /* marges ext. */
+    transition: 1s; /* effet progressif de transition : 1 seconde */
+}
+img:hover { /* la taille est augmentée lors du survol et l'image décalée par le margin */
+    height: 1000px;
+    width: 1000px;
+}

@@ -1,0 +1,7 @@
+.contenu{
+    background: #f6eadd; /* fond de couleur uni pour les anciens navigateurs */
+    background: linear-gradient( #f6eadd, #f9dac3); /* fond degradé pour les nouveaux navigateurs qui prenne en charge cette valeur linear-gradient */
+    width: 800px; /* largeur */
+    height: 500px; /* hauteur */
+    margin: 0 auto; /* marges extérieures */
+    }
